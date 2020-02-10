@@ -1,0 +1,12 @@
+identificador;nome;idade;sexo;peso;manchas;temperatura;internacoes;estado;diagnostico
+4201;Joao;28;M;67;Concentradas;38.0;2;SP;Doente
+3217;Maria;18;F;67;Inexistentes;39.5;4;MG;Saudavel
+4039;Luiz;49;M;500;Espalhadas;38.0;2;RS;Doente
+1920;Jose;18;M;43;Inexistentes;38.5;8;MG;Saudavel
+4340;Claudia;21;F;52;Uniformes;38.5;1;PE;Doente
+4340;Claudia;21;F;52;Uniformes;38.5;1;PE;Saudavel
+2301;Ana;22;F;72;Inexistentes;58.0;3;RJ;Doente
+2301;Ana;22;F;72;Inexistentes;58.0;3;RJ;Doente
+2301;Ana;22;F;72;Inexistentes;58.0;3;RJ;Doente
+1322;Marta;19;F;87;Espalhadas;39.0;6;AM;Saudavel
+3027;Paulo;34;M;67;Uniformes;38.4;2;GO;Saudavel
